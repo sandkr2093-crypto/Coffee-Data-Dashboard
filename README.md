@@ -21,6 +21,19 @@ Provide a data-driven view of weekday and hourly sales performance.
 ☕ Average Sale per Transaction: ₹31.64
 
 🕒 Peak Hour: 22 (10 PM)
+Key Insights
+
+The Afternoon is the busiest time, generating over 1,200 sales, indicating high demand post-lunch.
+
+The Peak Hour (22:00) shows a surprising late-night sales spike, possibly from night-shift or late café visitors.
+
+Americano with Milk is the top-selling coffee, followed by Cappuccino and Latte.
+
+The Card payment method dominates overall sales, highlighting customer preference for cashless transactions.
+
+Weekday trends remain consistent, with slightly higher activity toward the weekend (Fri–Sat).
+
+Average order values are steady throughout the day, suggesting stable pricing and customer spending habits.
 
 🌞 Top Time of Day: Afternoon (1,205 sales)
 
@@ -55,4 +68,17 @@ Clean layout with green–blue background for visual clarity.
 Intuitive slicers for month, time, and coffee filters.
 
 All visuals linked for cross-filtering and deep exploration.
+## Key Insights:
+
+The Afternoon is the busiest time, generating over 1,200 sales, indicating high demand post-lunch.
+
+The Peak Hour (22:00) shows a surprising late-night sales spike, possibly from night-shift or late café visitors.
+
+Americano with Milk is the top-selling coffee, followed by Cappuccino and Latte.
+
+The Card payment method dominates overall sales, highlighting customer preference for cashless transactions.
+
+Weekday trends remain consistent, with slightly higher activity toward the weekend (Fri–Sat).
+
+Average order values are steady throughout the day, suggesting stable pricing and customer spending habits.
 
