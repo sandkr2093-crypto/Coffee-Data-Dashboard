@@ -81,4 +81,27 @@ The Card payment method dominates overall sales, highlighting customer preferenc
 Weekday trends remain consistent, with slightly higher activity toward the weekend (Fri–Sat).
 
 Average order values are steady throughout the day, suggesting stable pricing and customer spending habits.
+## Dataset Description:
+Dataset Name: Coffee_Sales_Data.csv
+Column Name	Description
+hour_of_day	Hour of purchase (0–23)
+cash_type	Payment mode (Cash / Card)
+money	Amount spent per transaction
+coffee_name	Coffee product name (e.g., Latte, Cappuccino)
+Time_of_Day	Morning / Afternoon / Evening / Night
+Weekday	Day of the week (Mon–Sun)
+Month_name	Month of sale
+Date	Transaction date
+Time	Transaction time stamp
+Weekdaysort	Numerical order for weekdays
+Monthsort	Numerical order for months
+Dataset Summary
+
+Total Records: ~3,000 transactions
+
+Period Covered: 1 month of sales data
+
+Currency: Indian Rupees (₹)
+
+Source: Simulated point-of-sale transactions from a coffee shop
 
